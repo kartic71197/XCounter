@@ -6,7 +6,7 @@ function App() {
 
   return (
     <div className="flex gap-3 items-center justify-start p-3"> 
-      Count:{count}
+      Count: {count}
       <button
         className="p-3 bg-gray-400 text-black rounded-lg"
         onClick={() => {
